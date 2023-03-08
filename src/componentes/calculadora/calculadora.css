@@ -1,0 +1,24 @@
+*{
+    background-color: rgb(199, 192, 175)
+}
+.box{
+    width:100%;
+   
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+.calculadora{
+    width: 15rem;
+    height: 23rem;
+    
+    color:transparent;
+    background-color: rgb(0, 0, 0);
+
+    border-radius: 15px;
+    box-shadow: 0px 0px 20px 1px black;
+
+    margin-top: 8rem;
+
+   
+}

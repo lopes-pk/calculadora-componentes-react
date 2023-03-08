@@ -1,0 +1,66 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.botoes {
+    position: relative;
+    text-align: center;
+    background-color: black;
+
+}
+
+.botoes button {
+
+    border-radius: 100%;
+    border: none;
+
+    width: 3em;
+    height: 3em;
+
+    align-items: center;
+    margin: 2%;
+
+}
+
+.button-igual {
+    border-radius: 3em;
+    border: none;
+
+    width: 3em;
+    height: 3em;
+
+    align-items: center;
+
+
+}
+
+.botoes button:hover {
+    opacity: 2;
+}
+
+.botao-simbolo {
+    background-color: #ff9508;
+    color:white;
+    font-weight:bold;
+    
+    
+}
+
+.botao-zero{
+    width: 20px;
+    background-color:#505050;
+    color:white;
+    font-weight: 900;
+    
+}
+
+.botao-numero{
+    background-color: #505050;
+    color:white;
+    font-weight: 900;
+}
+
+.botao-cima{
+    font-weight: 800;
+    background-color: #cccccc;
+}
